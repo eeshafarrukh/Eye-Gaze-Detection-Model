@@ -6,7 +6,7 @@ This project aims to develop a deep learning model for eye gaze detection using 
 
 The MPII Gaze Detection dataset consists of images and corresponding gaze directions captured from various subjects. It contains both indoor and outdoor scenes with different head poses and lighting conditions.
 
-Dataset Link: [MPII Gaze Detection Dataset]([](https://paperswithcode.com/dataset/mpiigaze)
+Dataset Link: [MPII Gaze Detection Dataset] (https://paperswithcode.com/dataset/mpiigaze)
 
 ## Pre-processing
 
@@ -44,18 +44,12 @@ To replicate the experiment, follow these steps:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - TensorFlow or PyTorch
 - NumPy
 - Matplotlib
 - scikit-learn
 
-## Contributors
 
-- [Your Name](link_to_github_profile)
-- [Collaborator's Name](link_to_github_profile)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
